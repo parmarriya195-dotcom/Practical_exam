@@ -79,3 +79,10 @@ python main.py
 ## 👩‍💻 Author
 
 **Riya Parmar**
+
+GitHub:  
+https://github.com/riyaa-parmar
+
+---
+
+⭐ If you find these projects useful, consider **starring the repository**!
